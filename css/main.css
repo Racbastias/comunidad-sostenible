@@ -1,0 +1,116 @@
+#indice {
+    color: #5E8039;
+    text-decoration: none;
+}
+#equipo {
+    color: #5E8039;
+
+}
+#indice2 {
+    color: #5E8039;
+    text-decoration: none;
+}
+h5 {
+    color: white;
+}
+#whitemaintitle {
+    color: white;
+}
+#whitetext {
+    color: white;
+    font-size: 10px;
+}
+#content {
+    display: block;
+    background-image: url("/comunidad-sostenible/semilla.jpg");
+    min-height: 400px;
+    background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+h3 {
+    font-size: 20px;
+}
+#greenbg {    
+    display: inline-block;
+    background-image: url("/comunidad-sostenible/fondo.jpg");
+    min-height: 300px;
+    background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+#content2 {
+    display: inline-flex;
+    background-image: url("/comunidad-sostenible/fondo.jpg");
+    min-height: 200px;
+    background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+#content3 {
+    display: inline-flex;
+    background-image: url("/comunidad-sostenible/fondo2.jpg");
+    min-height: 200px;
+    background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+#team1 {
+    display: block;
+    background-image: url("/comunidad-sostenible/img-0352.JPG");
+    min-height: 300px;
+    background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+#teams {
+    display: inline-flex;
+    background-color: #5E8039;
+}
+#team2 {
+    display: block;
+    background-image: url("/comunidad-sostenible/img-9246.JPG");
+    min-height: 300px;
+    background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+#equipo2 {
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+}
+#equipo3 {
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+}
+#twitter {
+    display: inline-block;
+    margin: 0px 10px 0px 10px ;
+    width: 40px;
+    padding: 0px;
+}
+#email {
+    display: inline-block;
+    margin: 10px 10px 10px 10px ;
+    width: 40px;
+    height: 30px;
+    vertical-align: bottom;
+    padding: 0px;
+}
+#linkedin {
+    display: inline-block;
+    margin: 0px 10px 0px 10px ;
+    width: 45px;
+    padding: 0px;
+}
+#grupo, #grupo2 {
+    width: 200px;
+}
+#tercerpost {
+    color: #5E8039;
+}
+#redes {
+    background-color: #4D4D4D;
+}
