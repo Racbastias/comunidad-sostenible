@@ -22,7 +22,7 @@ h5 {
 }
 #content {
     display: block;
-    background-image: url("/comunidad-sostenible/semilla.jpg");
+    background-image: url("/comunidad-sostenible/img/fotos/semilla.jpg");
     min-height: 400px;
     background-size: cover;
 	background-repeat: no-repeat;
@@ -33,7 +33,7 @@ h3 {
 }
 #greenbg {    
     display: inline-block;
-    background-image: url("/comunidad-sostenible/fondo.jpg");
+    background-image: url("/comunidad-sostenible/img/fotos/fondo.jpg");
     min-height: 300px;
     background-size: cover;
 	background-repeat: no-repeat;
@@ -41,7 +41,7 @@ h3 {
 }
 #content2 {
     display: inline-flex;
-    background-image: url("/comunidad-sostenible/fondo.jpg");
+    background-image: url("/comunidad-sostenible/img/fotos/fondo.jpg");
     min-height: 200px;
     background-size: cover;
 	background-repeat: no-repeat;
@@ -49,7 +49,7 @@ h3 {
 }
 #content3 {
     display: inline-flex;
-    background-image: url("/comunidad-sostenible/fondo2.jpg");
+    background-image: url("/comunidad-sostenible/img/fotos/fondo2.jpg");
     min-height: 200px;
     background-size: cover;
 	background-repeat: no-repeat;
@@ -57,7 +57,7 @@ h3 {
 }
 #team1 {
     display: block;
-    background-image: url("/comunidad-sostenible/img-0352.JPG");
+    background-image: url("/comunidad-sostenible/img/fotos/img-0352.JPG");
     min-height: 300px;
     background-size: cover;
 	background-repeat: no-repeat;
@@ -69,7 +69,7 @@ h3 {
 }
 #team2 {
     display: block;
-    background-image: url("/comunidad-sostenible/img-9246.JPG");
+    background-image: url("/comunidad-sostenible/img/fotos/img-9246.jpg");
     min-height: 300px;
     background-size: cover;
 	background-repeat: no-repeat;
